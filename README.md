@@ -1,6 +1,8 @@
 # Belly_Button_Challenge
 
-![image](https://github.com/ChenitaFrancis-Hare/Belly_Button_Challenge/blob/Main]/image.jpg?raw=true)
+![image](https://github.com/ChenitaFrancis-Hare/Belly_Button_Challenge/README_Images
+/Bar_Chart_eg.png?raw=true)
+/blob/[branch]/image.jpg?raw=true)
 
 
 ## Background
